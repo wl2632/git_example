@@ -6,8 +6,6 @@ title: "Holy cow!"
 
 And I can put all kinds of stuff on it! Really, I can write whatever : )
 
-###GF
-
 My favorite website is [google](http://www.google.com)
 
 My most favorite is for this [class](http://jeffgoldsmith.com/DSI/index.html)

@@ -2,7 +2,7 @@
 title: "Holy cow!"
 ---
 
-### $$FD
+### 
 
 And I can put all kinds of stuff on it! Really, I can write whatever : )
 
